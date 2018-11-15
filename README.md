@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome to the read me for the community starter kit training course.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Here is a list of features:
+* feature 1
+* feature 2
+* feature 3
 
 ## Getting started
 
